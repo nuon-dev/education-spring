@@ -35,6 +35,8 @@ https://start.spring.io/
 - DELETE
 
 ## H2 DB의 데이터를 SQL로 조회하기
+- DDL로 테이블 만들기
+- DML로 데이터 조회하기
 
 
 ## JPA 의존성 추가해보기
