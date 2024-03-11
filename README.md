@@ -28,6 +28,12 @@ https://start.spring.io/
 - Spring Web
 8. Generate 한 뒤 이 폴더에 압축해제
 
+## Inmemory Repository를 활용한 REST API 만들어보기
+- GET
+- POST
+- PUT
+- DELETE
+
 ## 다음 목표
 - SQL로 데이터 조회하기
-  
+- 
