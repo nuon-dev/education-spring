@@ -4,6 +4,11 @@ spring mvc 샘플
 ## IntellIJ CE 설치
 https://www.jetbrains.com/ko-kr/idea/download/?section=windows
 
+## Feature 브랜치 생성
+```
+$ git checkout -b feature/{이름}-demo
+```
+
 ## spring initializer
 https://start.spring.io/
 
