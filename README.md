@@ -1,6 +1,9 @@
 # education-spring
 spring mvc 샘플
 
+## IntellIJ CE 설치
+https://www.jetbrains.com/ko-kr/idea/download/?section=windows
+
 ## spring initializer
 https://start.spring.io/
 
