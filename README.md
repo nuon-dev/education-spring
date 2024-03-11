@@ -34,6 +34,9 @@ https://start.spring.io/
 - PUT
 - DELETE
 
+## H2 DB의 데이터를 SQL로 조회하기
+
+
 ## JPA 의존성 추가해보기
 - `build.gradle.kts` 파일에 JPA 의존성 추가
 - `H2 Database` 의존성 추가
@@ -41,7 +44,3 @@ https://start.spring.io/
 ## H2 디비 Repository 만들어서 조회해보기
 - Entity 생성
 - Repository 만들기
-
-## 다음 목표
-- SQL로 데이터 조회하기
-- 
