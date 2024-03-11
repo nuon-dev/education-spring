@@ -36,6 +36,7 @@ https://start.spring.io/
 
 ## JPA 의존성 추가해보기
 - `build.gradle.kts` 파일에 JPA 의존성 추가
+- `H2 Database` 의존성 추가
 
 ## Inmemory Repository 만들어서 조회해보기
 - Entity 생성
