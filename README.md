@@ -9,6 +9,16 @@ https://www.jetbrains.com/ko-kr/idea/download/?section=windows
 $ git checkout -b feature/{이름}-demo
 ```
 
+## 과제
+- git 기본 커맨드 공부하기
+  - git add
+  - git commit
+  - git checkout
+  - git branch
+  - git pull
+  - git push
+  - git fetch
+
 ## spring initializer
 https://start.spring.io/
 
@@ -27,6 +37,8 @@ https://start.spring.io/
 - Spring Configuration Processor
 - Spring Web
 8. Generate 한 뒤 이 폴더에 압축해제
+
+## 과제
 
 ## REST API 만들어보기
 - GET
