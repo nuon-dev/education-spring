@@ -40,7 +40,15 @@ https://start.spring.io/
 - Spring Web
 8. Generate 한 뒤 이 폴더에 압축해제
 
+## IntelliJ로 복사 붙여넣기
+1. Generate된 압축파일을 압축해제해 IntelliJ 최상단에 붙여넣는다.
+2. 우측 하단에 `Load Gradle Project` 알람이 뜨면 버튼을 눌러 Load 하고 기다린다.
+3. 
+
 ## 과제
+1. Java, Kotlin 문법에 대해 공부해보기
+2. Gradle로 clean, build, bootJar, bootRun 해보기
+3. Java 버전에 대해 가볍게 알아보기
 
 ## REST API 만들어보기
 - GET
