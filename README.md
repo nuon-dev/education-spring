@@ -18,6 +18,7 @@ $ git checkout -b feature/{이름}-demo
   - git pull
   - git push
   - git fetch
+- git ssh 키 인증 방식 공부하고 적용하기
 
 ## spring initializer
 https://start.spring.io/
