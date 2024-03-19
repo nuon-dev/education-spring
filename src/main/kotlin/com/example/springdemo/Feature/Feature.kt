@@ -22,12 +22,12 @@ class Feature {
         return "post"
     }
 
-    @PutMapping
+    @PutMapping("/index")
     fun put():String{
         return "put"
     }
 
-    @DeleteMapping
+    @DeleteMapping("/index")
     fun delete():String{
         return "delete"
     }
