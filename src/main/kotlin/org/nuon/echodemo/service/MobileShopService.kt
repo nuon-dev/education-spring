@@ -28,4 +28,16 @@ class MobileShopService {
             throw NoSuchElementException("갤럭시를 찾을 수 없습니다.")
         }
     }
+
+    // 아이폰 재고를 내보냅니다.
+    fun exportIPhone(iPhone: AppleIPhone) {
+        MobileStorage.removeIPhone(iPhone)
+        println("아이폰 재고를 제거했습니다.")
+    }
+
+    // 갤럭시 재고를 내보냅니다.
+    fun exportGalaxy(galaxy: SamgsungGalaxy) {
+        MobileStorage.removeGalaxy(galaxy)
+        println("갤럭시 재고를 제거했습니다.")
+    }
 }
