@@ -8,3 +8,9 @@ PUT http://localhost:8080/index
 
 ###
 DELETE http://localhost:8080/index
+
+###
+GET http://localhost:8080/iphone?model=iPhone 13
+
+###
+GET http://localhost:8080/galaxy?model=Galaxy S21
