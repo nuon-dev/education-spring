@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: ella-demo
+  jpa:
+      hibernate:
+        ddl-auto: validate
+        naming:
+          implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+          physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      open-in-view: false
+      show-sql: true
+  datasource:
+      url: jdbc:mariadb://tmdwo07278.cafe24.com:3306/tmdwo07278
+      username: tmdwo07278
+      password: q1w2e3r4

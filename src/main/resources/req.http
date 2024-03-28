@@ -14,3 +14,31 @@ GET http://localhost:8080/iphone?model=iPhone 13
 
 ###
 GET http://localhost:8080/galaxy?model=Galaxy S21
+
+###
+GET http://localhost:8080/student/all
+
+###
+GET http://localhost:8080/student?id=1013
+
+###
+PUT localhost:8080/student/name?studentId=1013&name=ella
+
+###
+POST localhost:8080/student
+content-Type: application/json
+
+{
+  "id": 0,
+  "name": "ANYA",
+  "gender": "FEMALE",
+  "age": 10,
+  "isGraduated": false,
+  "createtime": "2024-03-28T22:34:00",
+  "lastModifiedTime": null,
+  "mobile": null,
+  "majorId": null
+}
+
+###
+DELETE localhost:8080/student?id=1200
